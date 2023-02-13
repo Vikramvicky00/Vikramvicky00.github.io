@@ -1,1 +1,1 @@
-A Multi_page Responsive E-Commerece Website
+A Multi_page Responsive Shopping Website
